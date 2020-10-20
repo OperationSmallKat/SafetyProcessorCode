@@ -1,8 +1,8 @@
 # SafetyProcessorCode
 
-## IDE: MCUCpresso
+## IDE: MCUXpresso ([Download link](https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE?tab=Design_Tools_Tab#nogo))
 ## Processor: LPC845
-## SDK:SDK_2.x_LPC845BREAKOUT
+## SDK: SDK_2.x_LPC845BREAKOUT
 
 ## Pins:
   ### SCL1: BQ24770

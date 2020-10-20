@@ -1,0 +1,7 @@
+miniusart_adapter.c:116:26:HAL_UartGetStatus	16	static
+miniusart_adapter.c:215:19:HAL_UartInit	48	static
+miniusart_adapter.c:284:19:HAL_UartDeinit	24	static
+miniusart_adapter.c:305:19:HAL_UartReceiveBlocking	32	static
+miniusart_adapter.c:327:19:HAL_UartSendBlocking	32	static
+miniusart_adapter.c:348:19:HAL_UartEnterLowpower	16	static
+miniusart_adapter.c:355:19:HAL_UartExitLowpower	16	static
